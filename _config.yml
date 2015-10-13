@@ -1,8 +1,7 @@
 title:            AnrainerKot
 description:      "AnrainerKot"
-logo:             omikron.png
-disqus_shortname: hmfaysal
-default_bg:       default_bg1.jpg
+logo:             anrainerkot.png
+default_bg:       Wien_Stephansdom.jpg
 search:           true
 share:            true
 readtime:         true
@@ -10,11 +9,11 @@ wpm:				      200
 triangleheader:		true
 animated_fins:	  true
 fin_color:        "255,255,255"
-url:       		   
+url:
 
 owner:
   name:           AnrainerKot
-  avatar:         hmfaysal.jpg
+  avatar:         anrainerkot.jpg
   twitter:        anrainerkot
 
 links:
@@ -39,7 +38,7 @@ kramdown:
   use_coderay: false
 
   coderay:
-    coderay_line_numbers: 
+    coderay_line_numbers:
     coderay_line_numbers_start: 1
     coderay_tab_width: 4
     coderay_bold_every: 10
@@ -69,7 +68,7 @@ prose:
           placeholder: "Choose your type"
           options:
             - name: "Standard"
-              value: 
+              value:
             - name: "Quote"
               value: quote
             - name: "Status"
