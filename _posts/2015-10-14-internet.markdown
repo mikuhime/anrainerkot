@@ -1,0 +1,11 @@
+---
+layout: post
+title: "internet"
+date: "2015-10-14"
+tags:
+  - Kaffee
+  - Internet
+published: true
+---
+
+Auch heute wieder fand die suche nach einem Kaffeehaus mit vernünftiger Inernetanbindung kein ende.
