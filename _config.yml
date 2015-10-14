@@ -1,7 +1,7 @@
 title:            AnrainerKot
 description:      "AnrainerKot"
 logo:             anrainerkot.png
-default_bg:       Wien_Stephansdom.jpg
+default_bg:       0005-stephansdom.jpg
 search:           true
 share:            true
 readtime:         true
